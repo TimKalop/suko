@@ -31,7 +31,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	padding-top: 50px; /* single-row navbar height */
+	padding-top: 70px; /* single-row navbar height */
 }
 
 @media (max-width: 1000px) {
