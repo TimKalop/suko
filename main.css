@@ -34,10 +34,10 @@ body {
 	padding-top: 160px; /* single-row navbar height */
 }
 
-@media (max-width: 800px) {
-	body {
-		padding-top: 5em;; /* double the space for 2-row navbar */
-		background-color:red;
+
+@media (max-width: 400px) {
+	#vrh {
+		padding-top: 120px; /* double the space for 2-row navbar */
 	}
 }
 
