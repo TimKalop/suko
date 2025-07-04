@@ -32,12 +32,12 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
-	padding-top: 1em; /* single-row navbar height */
+	padding-top: 80px; /* single-row navbar height */
 }
 
 @media (max-width: 1000px) {
 	body {
-		padding-top: 2em; /* double the space for 2-row navbar */
+		padding-top: 200px; /* double the space for 2-row navbar */
 	}
 }
 
