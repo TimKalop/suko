@@ -34,10 +34,9 @@ body {
 	padding-top: 160px; /* single-row navbar height */
 }
 
-@media (max-width: 300px) {
+@media (max-width: 640px) {
 	body {
-		padding-top: 300px; /* double the space for 2-row navbar */
-		background-color:red;
+		padding-top: 200px; /* double the space for 2-row navbar */
 	}
 }
 
