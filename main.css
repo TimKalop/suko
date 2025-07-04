@@ -36,7 +36,7 @@ body {
 
 @media (max-width: 1000px) {
 	body {
-		padding-top: 80px; /* double the space for 2-row navbar */
+		padding-top: 100px; /* double the space for 2-row navbar */
 	}
 }
 
