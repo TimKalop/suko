@@ -31,13 +31,12 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	padding-top: 1em; /* single-row navbar height */
-	background-color: red;
+	padding-top: 2em; /* single-row navbar height */
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 200px) {
 	body {
-		padding-top: 1.5em; /* double the space for 2-row navbar */
+		padding-top: 4em; /* double the space for 2-row navbar */
 	}
 }
 
