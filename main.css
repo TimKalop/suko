@@ -37,7 +37,7 @@ body {
 
 @media (max-width: 400px) {
 	#vrh {
-		padding-top: 120px; /* double the space for 2-row navbar */
+		padding-top: 70px; /* double the space for 2-row navbar */
 	}
 }
 
