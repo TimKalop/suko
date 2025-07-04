@@ -52,6 +52,9 @@ table {
 	border-spacing: 0;
 }
 
+#vrh {
+	margin-top:30px;
+}
 body {
 	-webkit-text-size-adjust: none;
 }
