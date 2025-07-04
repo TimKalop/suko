@@ -32,6 +32,13 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	padding-top: 3.5em; /* single-row navbar height */
+}
+
+@media (max-width: 1000px) {
+	body {
+		padding-top: 7em; /* double the space for 2-row navbar */
+	}
 }
 
 ol, ul {
